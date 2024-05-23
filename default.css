@@ -1,0 +1,79 @@
+* {
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin: auto;
+    background-color: black;
+}
+
+footer {
+    text-align: center;
+    margin: auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: black;
+}
+
+footer p {
+    color:white;
+}
+
+span {
+    color: orangered;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+#error404 {
+    max-width: 940px;
+    margin: auto;
+    padding-top: 0;
+    padding-bottom: 50px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4em;
+    color: orangered;
+}
+
+h1:hover {
+    color:orangered;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.3em;
+}
+
+a{
+    font-size: 1.5em;
+    color:orangered;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+a:hover {
+    color: black;
+    font-weight: bold;
+
+}
